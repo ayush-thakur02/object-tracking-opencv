@@ -115,8 +115,7 @@ In this part of the code, we have to make sure to compare the previous object wi
 
 Now the tracking works quite well and as you can see from the image below, the white car has lost track because the object has not been identified anymore.
 
-<a href="https://ibb.co/tLmyhm9"><img src="https://i.ibb.co/kmHYyHt/image.png" alt="image" border="0"></a>
-
+<a href="https://ibb.co/wrqyRHh"><img src="https://i.ibb.co/mFKJGs5/object-tracking-from-scratch-opencv-and-python-lost-ID-1024x601.png" alt="object-tracking-from-scratch-opencv-and-python-lost-ID-1024x601" border="0"></a>
 
 ### Add new ID to new cars
 
